@@ -10,7 +10,6 @@
 
 number = input("Please enter in an integer value> ")
 try:
-
     number = int(number)
     print(number)
 except:
